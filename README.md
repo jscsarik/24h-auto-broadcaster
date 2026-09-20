@@ -26,3 +26,4 @@
 
 <!-- 터미널 돌아가는 거랑 OBS 화면 넘어가는 거 짧은 GIF로 따서 올리면 좋음 -->
 (시연 GIF 또는 유튜브 링크)
+https://www.youtube.com/watch?v=8eyowboviXM
