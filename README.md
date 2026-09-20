@@ -19,12 +19,12 @@
 * OBS Studio
 
 ## 구조 및 시연
-<!-- 여기에 시스템 구조도(pdf 캡처본) 드래그 앤 드롭 --><img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/f7b1bb6d-e97f-46ac-ac4e-2b14a28f0e70" />
-<img width="400" height="240" alt="image" src="https://github.com/user-attachments/assets/1944eb8d-e679-4a37-91e4-076b36ae9272" />
+<!-- 여기에 시스템 구조도(pdf 캡처본) 드래그 앤 드롭 -->
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/f7b1bb6d-e97f-46ac-ac4e-2b14a28f0e70" />
+<img width="400" height="260" alt="image" src="https://github.com/user-attachments/assets/1944eb8d-e679-4a37-91e4-076b36ae9272" />
 <img width="300" height="151" alt="image" src="https://github.com/user-attachments/assets/db4c1b57-500f-4a3c-b792-ec5deba9c61f" />
 
 
 <!-- 터미널 돌아가는 거랑 OBS 화면 넘어가는 거 짧은 GIF로 따서 올리면 좋음 -->
-(시연 GIF 또는 유튜브 링크)
-https://www.youtube.com/watch?v=8eyowboviXM
 <img width="360" height="203" alt="2026-09-20 20-10-26_1" src="https://github.com/user-attachments/assets/a165c406-ede3-4dc3-a4ad-ad3b94a025f2" />
+https://www.youtube.com/watch?v=8eyowboviXM
