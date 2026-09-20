@@ -27,4 +27,6 @@
 
 <!-- 터미널 돌아가는 거랑 OBS 화면 넘어가는 거 짧은 GIF로 따서 올리면 좋음 -->
 <img width="360" height="203" alt="2026-09-20 20-10-26_1" src="https://github.com/user-attachments/assets/a165c406-ede3-4dc3-a4ad-ad3b94a025f2" />
+
+
 https://www.youtube.com/watch?v=8eyowboviXM
